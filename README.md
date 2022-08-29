@@ -1,1 +1,1 @@
-# minecraft-clone
+# mini-minecraft
